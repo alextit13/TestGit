@@ -11,5 +11,7 @@ public class StartClass extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         // first
         // two
+
+        // fix/two one commit
     }
 }
