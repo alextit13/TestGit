@@ -6,7 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4588c936-e1ca-4bb9-98cf-b8fc3d5b476c" name="Default" comment="Two">
+    <list default="true" id="4588c936-e1ca-4bb9-98cf-b8fc3d5b476c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/audiobooks/android/testgenerics/StartClass.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/audiobooks/android/testgenerics/StartClass.java" />
     </list>
@@ -34,8 +34,8 @@
       <file leaf-file-name="StartClass.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/audiobooks/android/testgenerics/StartClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            <state relative-caret-position="210">
+              <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -2110,7 +2110,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1536693141776" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1536693285921" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2210,7 +2210,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1536693141776" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1536693285921" />
       </method>
     </configuration>
     <list size="1">
@@ -2253,7 +2253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1536693069871</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="one commit in fix/two">
+      <created>1536693158175</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1536693158175</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2326,7 +2333,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="One" />
     <MESSAGE value="Two" />
-    <option name="LAST_COMMIT_MESSAGE" value="Two" />
+    <MESSAGE value="one commit in fix/two" />
+    <option name="LAST_COMMIT_MESSAGE" value="one commit in fix/two" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -2343,8 +2351,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/audiobooks/android/testgenerics/StartClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        <state relative-caret-position="210">
+          <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
           <folding />
         </state>
       </provider>
