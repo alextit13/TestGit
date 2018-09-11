@@ -14,5 +14,7 @@ public class StartClass extends AppCompatActivity {
 
         // fix/two one commit
         // fix/two two commit
+
+        // fix/three one commit
     }
 }
